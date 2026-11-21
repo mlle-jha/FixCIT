@@ -1,0 +1,9 @@
+{
+  "name": "FixCIT",
+  "short_name": "FixCIT",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fcfaf6",
+  "theme_color": "#da1884",
+  "description": "CCIT facility issue reporting"
+}
